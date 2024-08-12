@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "TParx2s3zysXYAjVzXXvCXMD9hVSTmzwP0HV7pUMQxk=",
+  "Source": "Producto",
+  "BasePath": "_content/Producto",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Producto\\wwwroot",
+      "Source": "Producto",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\Diego\\LinkTIC\\BACKEND\\ProductoService\\wwwroot\\",
+      "BasePath": "_content/Producto",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\USUARIO\\Documents\\Diego\\LinkTIC\\BACKEND\\ProductoService\\wwwroot\\images\\.jpg",
+      "SourceId": "Producto",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\Diego\\LinkTIC\\BACKEND\\ProductoService\\wwwroot\\",
+      "BasePath": "_content/Producto",
+      "RelativePath": "images/.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\USUARIO\\Documents\\Diego\\LinkTIC\\BACKEND\\ProductoService\\wwwroot\\images\\0d8402d4749bf43ee56c656a7237f5e3.jpg",
+      "SourceId": "Producto",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\Diego\\LinkTIC\\BACKEND\\ProductoService\\wwwroot\\",
+      "BasePath": "_content/Producto",
+      "RelativePath": "images/0d8402d4749bf43ee56c656a7237f5e3.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\0d8402d4749bf43ee56c656a7237f5e3.jpg"
+    }
+  ]
+}

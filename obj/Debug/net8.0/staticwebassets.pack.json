@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\USUARIO\\Documents\\Diego\\LinkTIC\\BACKEND\\ProductoService\\wwwroot\\images\\.jpg",
+      "PackagePath": "staticwebassets\\images\\.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USUARIO\\Documents\\Diego\\LinkTIC\\BACKEND\\ProductoService\\wwwroot\\images\\0d8402d4749bf43ee56c656a7237f5e3.jpg",
+      "PackagePath": "staticwebassets\\images\\0d8402d4749bf43ee56c656a7237f5e3.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Producto.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Producto.props",
+      "PackagePath": "build\\Producto.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Producto.props",
+      "PackagePath": "buildMultiTargeting\\Producto.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Producto.props",
+      "PackagePath": "buildTransitive\\Producto.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
